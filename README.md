@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Frontend & Backend Developer with 2 years of experience crafting corporate projects. I love working with **React.js**, **TypeScript**, and **.NET Core**. Right now, I'm diving into **Java Spring Boot** and leveling up my skills in **Docker**, **RabbitMQ**, and **Elasticsearch**. My mission? To write clean, efficient code and have fun while doing it!
+I am a dedicated Frontend and Backend Developer with two years of experience in delivering corporate projects. My expertise lies in utilizing React.js, TypeScript, and .NET Core to create robust and efficient applications. Currently, I am expanding my skill set with Java Spring Boot, along with enhancing my knowledge in Docker, RabbitMQ, and Elasticsearch. My goal is to consistently produce clean, efficient code while maintaining a collaborative and enjoyable work environment.
 
 ---
 
@@ -32,7 +32,7 @@ I'm a passionate Frontend & Backend Developer with 2 years of experience craftin
 
 - React, Kodluyoruz
 - React & TypeScript (HackerRank)
-- Java Spring Boot
+- Java Spring Boot,Patika
 
 ---
 
