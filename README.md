@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Tuba Özyurt!
 
 **📍 Location:** Ankara  
-**📞 Phone:** +90 505 058 18 37  
 **✉️ Email:** [tuba.ozyurt93@gmail.com](mailto:tuba.ozyurt93@gmail.com)  
 
 ---
@@ -38,7 +37,6 @@ I am a dedicated Frontend and Backend Developer with two years of experience in 
 
 ## 🌍 Let’s Connect!
 
-- **GitHub:** [github.com/tubaozyurt93](https://github.com/tubaozyurt93)
 - **LinkedIn:** [linkedin.com/in/tuba-ozyurt](https://www.linkedin.com/in/tuba-ozyurt/)
 - **Medium:** [medium.com/@tuba.ozyurt93](https://medium.com/@tuba.ozyurt93)
 
