@@ -13,7 +13,7 @@ I am a dedicated Frontend and Backend Developer with two years of experience in 
 
 ## 🛠️ Skills
 
-- **Frontend:** React.js, TypeScript, HTML, CSS
+- **Frontend:** React.js, TypeScript, HTML, CSS,Next.js
 - **Backend:** .NET Core API,Java
 - **Databases:** PostgreSQL
 - **Cool Tools:** Docker, RabbitMQ, Elasticsearch
